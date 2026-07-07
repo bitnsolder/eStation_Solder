@@ -4,6 +4,12 @@ An open-source electronic soldering station (eStation) for JBC C245 tips, powere
 
 This is the initial stable release of the custom-built soldering station. It is currently fully functional and performs reliably for soldering tasks.
 
+# Channels
+Please follow/subcribe for new updates
+https://www.youtube.com/@bitnsolder
+https://facebook.com/bitnsolder
+www.tiktok.com/@bitnsolder
+
 ## Future Roadmap & Development
 While the core functionality is solid, I am planning several upgrades and new features to enhance its capabilities:
 
@@ -24,13 +30,6 @@ While the core functionality is solid, I am planning several upgrades and new fe
 
 ---
 *Contributions and suggestions are highly welcome!*
-
-# Channes
-Please follow/subcribe for new updates
-https://www.youtube.com/@bitnsolder
-https://facebook.com/bitnsolder
-www.tiktok.com/@bitnsolder
-
 
 # DIY video
 Part1 (Old solder iron's problem):
