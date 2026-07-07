@@ -4,13 +4,25 @@ An open-source electronic soldering station (eStation) for JBC C245 tips, powere
 
 This is the initial stable release of the custom-built soldering station. It is currently fully functional and performs reliably for soldering tasks.
 
-# Channels
+## Channels
 Please follow/subcribe for new updates
 https://www.youtube.com/@bitnsolder
 https://facebook.com/bitnsolder
 www.tiktok.com/@bitnsolder
 
-## Future Roadmap & Development
+## DIY video
+Part1 (Old solder iron's problem):
+https://youtu.be/2gBfrUGCxDQ
+
+Part2 (Hardware): https://youtu.be/oAlwus3iCWY
+
+Part3 (Software - optimize PID) 
+TBD (soon...)
+
+## PCB
+https://oshwlab.com/tuanta11/project_hqokojnx
+
+# Future Roadmap & Development
 While the core functionality is solid, I am planning several upgrades and new features to enhance its capabilities:
 
 ### Hardware Upgrades
@@ -30,18 +42,6 @@ While the core functionality is solid, I am planning several upgrades and new fe
 
 ---
 *Contributions and suggestions are highly welcome!*
-
-# DIY video
-Part1 (Old solder iron's problem):
-https://youtu.be/2gBfrUGCxDQ
-
-Part2 (Hardware): https://youtu.be/oAlwus3iCWY
-
-Part3 (Software - optimize PID) 
-TBD (soon...)
-
-# PCB
-https://oshwlab.com/tuanta11/project_hqokojnx
 
 # Note
 This repository temporarily reuses a few functions from the AxxSolder project to accelerate initial development. These dependencies fully comply with the GPLv3 license and may be independently optimized or rewritten in future updates to better fit this specific hardware architecture.
