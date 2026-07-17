@@ -14,7 +14,9 @@ www.tiktok.com/@bitnsolder
 Part1 (Old solder iron's problem):
 https://youtu.be/2gBfrUGCxDQ
 
-Part2 (Hardware): https://youtu.be/oAlwus3iCWY
+Part2 (Hardware): https://youtu.be/oAlwus3iCWY 
+
+https://youtu.be/wETaPP5GfT0 (design topology, importance of grounding)
 
 Part3 (Software - optimize PID) 
 TBD (soon...)
